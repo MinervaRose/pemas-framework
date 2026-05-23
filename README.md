@@ -2,11 +2,14 @@
 
 ### A Synthetic Experimental Framework for Ecologically Adaptive AI Governance
 
-![Python](https://img.shields.io/badge/Python-3.11+-111111?style=for-the-badge&logo=python)
-![Research](https://img.shields.io/badge/Research-Computational%20Governance-111111?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent%20Systems-111111?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Exploratory%20Research-111111?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-111111?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Research](https://img.shields.io/badge/Research-Computational%20Governance-6A0DAD?style=for-the-badge&logo=academia&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Planetary%20Multi--Agent%20Systems-0B3D91?style=for-the-badge&logo=databricks&logoColor=white)
+![Ecological AI](https://img.shields.io/badge/Ecological-AI%20Governance-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white)
+![Cybernetics](https://img.shields.io/badge/Cybernetics-Adaptive%20Governance-FF6F00?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Systems Thinking](https://img.shields.io/badge/Systems-Thinking%20%26%20Ecology-008B8B?style=for-the-badge&logo=matrix&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Exploratory%20Research-C2185B?style=for-the-badge&logo=githubactions&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-424242?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ---
 
