@@ -1,6 +1,6 @@
 # Planetary-Embedded Multi-Agent Systems (PEMAS)
 
-### A Synthetic Experimental Framework for Ecologically Adaptive AI Governance
+### A Synthetic Experimental Framework for Planetary-Aware AI Governance
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-Computational%20Governance-6A0DAD?style=for-the-badge&logo=academia&logoColor=white)
@@ -15,7 +15,7 @@
 
 ## Overview
 
-Planetary-Embedded Multi-Agent Systems (PEMAS) is an exploratory computational research framework investigating whether ecological and planetary conditions can function as endogenous governance signals inside modular AI architectures.
+Planetary-Embedded Multi-Agent Systems (PEMAS) is an exploratory computational research framework investigating whether planetary and ecological conditions can function as endogenous governance signals inside modular AI architectures.
 
 Rather than treating computation as abstract and materially detached, PEMAS explores a different framing:
 
@@ -39,7 +39,7 @@ Under increasing ecological stress:
 
 - recursive depth contracts,
 - cumulative token expenditure decreases,
-- routing shifts toward smaller models,
+- routing shifts toward lower-compute reasoning configurations,
 - compression frequency increases,
 - and stopping behavior increasingly favors sufficiency over maximal optimization.
 
@@ -59,6 +59,17 @@ pemas-framework/
 ```
 
 ---
+
+## Methodological scope 
+
+PEMAS is intentionally synthetic, exploratory, and governance-oriented.
+
+The framework does not attempt to estimate real-world environmental impact or provide deployment-ready sustainability metrics.
+
+Instead, the project investigates whether ecological constraints can function as governance variables inside computational cognition loops.
+
+---
+
 
 ## Citation
 
