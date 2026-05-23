@@ -2,6 +2,8 @@
 
 ### A Synthetic Experimental Framework for Planetary-Aware AI Governance
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20357817.svg)](https://doi.org/10.5281/zenodo.20357817)
+
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-Computational%20Governance-6A0DAD?style=for-the-badge&logo=academia&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Planetary%20Multi--Agent%20Systems-0B3D91?style=for-the-badge&logo=databricks&logoColor=white)
